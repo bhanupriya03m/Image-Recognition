@@ -19,7 +19,7 @@ pip install deepface opencv-python-headless matplotlib ipywidgets
 4. Click the "Analyze" button to perform emotion analysis and face detection.
 5. View the analyzed image with rectangles around detected faces and corresponding dominant emotions.
 ## Dependencies
-1.deepface: A Python library for deep learning-based face analysis.
-2.opencv-python-headless: OpenCV library for computer vision and image processing tasks.
-3.matplotlib: A Python plotting library for creating visualizations.
-4.ipywidgets: Interactive widgets for the Jupyter notebook.
+deepface: A Python library for deep learning-based face analysis.
+opencv-python-headless: OpenCV library for computer vision and image processing tasks.
+matplotlib: A Python plotting library for creating visualizations.
+ipywidgets: Interactive widgets for the Jupyter notebook.

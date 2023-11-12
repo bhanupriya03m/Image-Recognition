@@ -5,8 +5,13 @@ This project uses the DeepFace library to perform emotion analysis and face dete
 Emotion Analysis: DeepFace library is used to analyze the dominant emotion in the provided image.
 Face Detection: OpenCV is employed for face detection, and rectangles are drawn around detected faces with labels indicating the dominant emotion.
 ## Installation
-```pip install deepface```
-```pip install deepface opencv-python-headless matplotlib ipywidgets```
+
+```shell
+pip install deepface
+```
+```shell
+pip install deepface opencv-python-headless matplotlib ipywidgets
+```
 ## Usage
 1. Open the Jupyter notebook in your Jupyter environment.
 2. Run the notebook cells to execute the code.
